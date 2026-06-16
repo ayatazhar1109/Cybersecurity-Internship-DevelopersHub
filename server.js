@@ -155,4 +155,4 @@ app.listen(3000, () => {
     console.log('🔒 Secure server running on http://localhost:3000');
     console.log('✅ SQLi Prevention | CSRF Protection | Rate Limiting | API Keys | CSP | HSTS');
     logger.info('Server started on port 3000');
-});
+}); 
